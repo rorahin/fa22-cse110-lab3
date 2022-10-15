@@ -3,17 +3,20 @@
 
 ### Date: <!-- date -->
 ### Name: <!-- name -->
+###
+###
 
-### Daily question
+### Daily question:
 1. What did you do yesterday?
-    Answer: <!-- answer q1 -->
+    ###   Answer: <!-- answer q1 -->
     
 2. What will you do today?
-   Answer: <!-- answer q2 -->
+    ###  Answer: <!-- answer q2 -->
    
 3. are the any blockers?
-  Answer: <!-- answer q3 -->
+    ###   Answer: <!-- answer q3 -->
   
+  [Go back up](#rudy-orahin)
   
 
 
