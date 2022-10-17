@@ -1,4 +1,11 @@
 .Description {
     font-size: small;
     width: 200px;
+
+    border: 2px solid rebeccapurple;
+    padding: auto;
+    list-style: none;
+    display: inline;
+
 }
+
