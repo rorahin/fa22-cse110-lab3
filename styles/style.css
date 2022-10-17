@@ -1,14 +1,4 @@
-/* CSS for the lab 3 assignment */
-/* Comment issue is closed */
-
-.meeting-details {
-    color: blue;
-}
-
-nav {
-    background-color: yellow  ;
-}
-
-p {
-    color: blueviolet;
+.Description {
+    font-size: small;
+    width: 200px;
 }
