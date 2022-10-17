@@ -1,1 +1,73 @@
 
+/* CSS for the lab 3 assignment */
+/* Comment issue is closed */
+
+html{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    line-height: 1;
+    max-width: fit-content;
+}
+
+
+h1 {
+    font-size: 40px;
+    text-transform: capitalize;
+    text-shadow: 3px 3px 5px blueviolet;
+    text-align: center;
+    font-weight: bold;
+    line-height: 100px;
+    display: block flow-root;
+    min-width: max-content;
+
+}
+
+.meeting-details {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    text-shadow: 1px 1px 5px;
+    display: inline-block;
+}
+
+.headerinfo {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: yellow  ;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    
+}
+
+li{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 12px;
+    width: 1000px;
+    font-size: medium;
+
+}
+.Description, strong {
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    font-weight: bold;
+
+    font-size: x-large;
+    width: 1000px;
+
+    border: 2px solid rebeccapurple;
+    padding: auto;
+    list-style: none;
+    display: inline;
+
+    margin-top: auto;
+    margin-bottom: 10px;
+    margin-right: 3px;
+    margin-left: 10px;
+    display: initial;
+
+    
+
+}
+
